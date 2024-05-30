@@ -1,0 +1,7 @@
+# Management Files
+*.txt
+
+# Executable Files
+*.exe
+*.out
+*.o
